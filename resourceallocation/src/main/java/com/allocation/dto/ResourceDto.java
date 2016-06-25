@@ -3,11 +3,14 @@ package com.allocation.dto;
 import java.util.Date;
 import java.util.List;
 
+import javax.xml.bind.annotation.XmlRootElement;
+
 /**
  * @author Team
  * @date 24-06-2016
  *
  */
+@XmlRootElement
 public class ResourceDto {
 
 	String sno;
