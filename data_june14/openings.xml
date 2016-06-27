@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<resource-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<opening-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<record>
 		<RequestID>1</RequestID>
 		<ClientKey>IFS</ClientKey>
@@ -17550,4 +17550,4 @@
 		<RequestStartDate>01-07-2017</RequestStartDate>
 		<AllocationEndDate>01-12-2017</AllocationEndDate>
 	</record>
-</resource-data>
+</opening-data>
